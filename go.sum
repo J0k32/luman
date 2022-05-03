@@ -1,0 +1,6 @@
+github.com/ant0ine/go-json-rest v3.3.2+incompatible h1:nBixrkLFiDNAW0hauKDLc8yJI6XfrQumWvytE1Hk14E=
+github.com/ant0ine/go-json-rest v3.3.2+incompatible/go.mod h1:q6aCt0GfU6LhpBsnZ/2U+mwe+0XB5WStbmwyoPfc+sk=
+github.com/bnkamalesh/webgo v2.5.1+incompatible h1:hmTKzO0XiETSl8OE8kQG7nwdAPKxQwVVPcX6vCw9LU4=
+github.com/bnkamalesh/webgo v2.5.1+incompatible/go.mod h1:oA+QPyttd9wczudx6wpYI+ym1VcBiFToOHuYXL6AmNg=
+github.com/bnkamalesh/webgo/v6 v6.6.2 h1:dsoR2HtizJlcs/I57B4/X9S3+PQQMf+KUmdGallp7jw=
+github.com/bnkamalesh/webgo/v6 v6.6.2/go.mod h1:2Y+dEdTp1xC/ra+3PAVZV6hh4sCI+iPK7mcHt+t9bfM=
